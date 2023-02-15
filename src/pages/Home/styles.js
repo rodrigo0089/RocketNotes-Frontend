@@ -14,6 +14,12 @@ export const Container = styled.div`
   "newnote content";
 
   background-color: ${({ theme }) =>theme.COLORS.BACKGROUND_800};
+
+  footer {
+    width: 100%;
+    display: flex;
+    margin-top: 24px;
+  }
 `;
 
 export const Brand = styled.div`
