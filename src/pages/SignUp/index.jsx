@@ -4,7 +4,7 @@ import { Button } from "../../components/Button"
 
 import { Container, Form, Background } from "./styles"
 
-export function SingUp() {
+export function SignUp() {
   return (
     <Container>
        <Background />
