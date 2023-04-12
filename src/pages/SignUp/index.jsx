@@ -2,7 +2,7 @@ import { useState  } from "react";
 import { FiMail, FiLock, FiUser } from "react-icons/fi";
 import { Link, useNavigate } from "react-router-dom";
 
-import { api } from '../../services/api'
+import { api } from '../../services/api';
 
 import { Input } from "../../components/Input";
 import { Button } from "../../components/Button";
