@@ -35,7 +35,7 @@ export const Form = styled.form`
 
   > a {
     color: ${({ theme }) => theme.COLORS.ORANGE};
-    margin-top: 124px;
+    margin-top: 70px;
 
   }
 
