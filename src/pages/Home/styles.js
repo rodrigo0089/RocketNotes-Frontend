@@ -52,7 +52,6 @@ export const Menu = styled.ul`
 
     > li {
       margin-bottom: 24px;
-      list-style: none;
     }
     
 `;
@@ -82,5 +81,4 @@ export const NewNote= styled(Link)`
     > svg {
       margin-right: 8px;
     } 
-    
 `;
